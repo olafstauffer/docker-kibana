@@ -4,7 +4,7 @@ Build a docker image with a kibana (v4) dashboard.
 
 This Dockerfile builds a image based on Kibana4 (beta).
 
-It uses [docker-starter](https://github.com/olafstauffer/docker-kibana) to resolve the connection to a elasticsearch node at runtime.
+It uses [docker-starter](https://github.com/olafstauffer/docker-starter) to resolve the connection to a elasticsearch node at runtime.
 
 ### Examples
 
